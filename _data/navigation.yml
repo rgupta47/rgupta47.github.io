@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Machine Learning"
     url: /machine-learning/
-  - title: "Application Design"
-    url: /application-design/
+  - title: "Visiualization"
+    url: /visiualization/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
